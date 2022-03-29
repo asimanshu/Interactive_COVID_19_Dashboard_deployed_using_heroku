@@ -56,7 +56,7 @@ Follow these steps to deploy your python dashboard online. In order to deploy yo
 	$ git push heroku master 
 
 Although deploying on heroku is a very straight forward process but sometimes it may takes several attempts before it successfully deploys it.
-If you ahve all the files in order and error free, it shouldn't take too many attempts. However, the plus side is, once it is uploaded it is extremely simple and fast
+If you have all the files in order and error free, it shouldn't take too many attempts. However, the plus side is, once it is uploaded it is extremely simple and fast
 to update.
 
 Another negative side of the herokuapp is, it takes longer than expected to open. The reason behind it is that it sleeps after half an hour of inactivity.
