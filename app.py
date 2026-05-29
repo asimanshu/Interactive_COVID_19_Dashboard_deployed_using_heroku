@@ -368,7 +368,7 @@ end = html.Div(children= [
         
         html.H3('About Author'),
         html.H4('Aseem Kumar Anshu'),
-        html.Div('I have completed Ph.D from Magadh University, Bodh Gaya. I am currently working at Amplipath Diagnostic and Research Centre, Patna.') 
+        html.Div('Ph.D') 
         
 ])
 
